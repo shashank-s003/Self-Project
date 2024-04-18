@@ -14,48 +14,54 @@ header{
     background-color: white;
     color:white;   
     margin: 12vh 15vh; 
-    box-shadow: 10px 5px 5px grey;
-    border: 5px solid grey;
+    box-shadow: 10vh 5vh 5vh grey;
+    border: 2vh solid grey;
+    border-radius: 2vh;
 }
 .box2{
     display: inline-block;
     background-color: white;
     color:white;
     margin: 12vh 15vh; 
-    box-shadow: 10px 5px 5px grey;
-    border: 5px solid grey;
+    box-shadow: 10vh 5vh 5vh grey;
+    border: 2vh solid grey;
+    border-radius: 2vh;
 }
 .box3{
     display: inline-block;
     background-color: white;
     color:white;
     margin: 12vh 15vh; 
-    box-shadow: 10px 5px 5px grey;
-    border: 5px solid grey;
+    box-shadow: 10vh 5vh 5vh grey;
+    border: 2vh solid grey;
+    border-radius: 2vh;
 }
 .box4{
     display: inline-block;
     background-color: white;
     color:white;
     margin: 12vh 15vh; 
-    box-shadow: 10px 5px 5px grey;
-    border: 5px solid grey;
+    box-shadow: 10vh 5vh 5vh grey;
+    border: 2vh solid grey;
+    border-radius: 2vh;
 }
 .box5{
     display: inline-block;
     background-color: white;
     color:white;
     margin: 12vh 15vh; 
-    box-shadow: 10px 5px 5px grey;
-    border: 5px solid grey;
+    box-shadow: 10vh 5vh 5vh grey;
+    border: 2vh solid grey;
+    border-radius: 2vh;
 }
 .box6{
     display: inline-block;
     background-color: white;
     color:white;
     margin: 12vh 15vh; 
-    box-shadow: 10px 5px 5px grey;
-    border: 5px solid grey;
+    box-shadow: 10vh 5vh 5vh grey;
+    border: 2vh solid grey;
+    border-radius: 2vh;
 }
 footer{
     text-align: center;
