@@ -1,0 +1,44 @@
+.num{
+    /* background: 100vh black; */
+    color: white;
+    font-size: larger;
+    display: inline-block;
+    width: 49%;
+}
+.main{
+    /* background: 100vh black; */
+    color: white;
+    font-size: larger;
+    display: inline-block;
+    width: 50%;
+    text-align: right;
+}
+.linkedin{
+    /* background: 100vh black; */
+    color: white;
+    font-size: larger;
+    text-decoration: none;
+    text-align: center;
+    height: 23vh;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 10vh;
+    font-size: xx-large;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: xxx-large;
+    height: 10vh;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+*{
+    background-color: black;
+}

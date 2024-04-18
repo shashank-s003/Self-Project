@@ -1,0 +1,18 @@
+h1{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+p{
+    font-size: 3vh;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 10vh;
+    font-size: xx-large;
+}
+*{
+    background-color: pink;
+}

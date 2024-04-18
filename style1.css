@@ -1,0 +1,110 @@
+header{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: xxx-large;
+    height: 10vh;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+.box1{
+    display: inline-block;
+    background-color: white;
+    color:white;   
+    margin: 12vh 15vh; 
+    box-shadow: 10px 5px 5px grey;
+    border: 5px solid grey;
+}
+.box2{
+    display: inline-block;
+    background-color: white;
+    color:white;
+    margin: 12vh 15vh; 
+    box-shadow: 10px 5px 5px grey;
+    border: 5px solid grey;
+}
+.box3{
+    display: inline-block;
+    background-color: white;
+    color:white;
+    margin: 12vh 15vh; 
+    box-shadow: 10px 5px 5px grey;
+    border: 5px solid grey;
+}
+.box4{
+    display: inline-block;
+    background-color: white;
+    color:white;
+    margin: 12vh 15vh; 
+    box-shadow: 10px 5px 5px grey;
+    border: 5px solid grey;
+}
+.box5{
+    display: inline-block;
+    background-color: white;
+    color:white;
+    margin: 12vh 15vh; 
+    box-shadow: 10px 5px 5px grey;
+    border: 5px solid grey;
+}
+.box6{
+    display: inline-block;
+    background-color: white;
+    color:white;
+    margin: 12vh 15vh; 
+    box-shadow: 10px 5px 5px grey;
+    border: 5px solid grey;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 10vh;
+    font-size: xx-large;
+}
+*{
+    margin: 0;
+    padding: 0;
+    background-color: solid black;
+}
+h1 ul li{
+    display: inline-block;
+    margin: 0vh 4vh;
+    font-size: large;
+}
+h1{
+    background-color: lightblue;
+    text-decoration: none;
+}
+.link1{
+    text-decoration: none;
+    text-align: center;
+    font-size: large;
+}
+.link2{
+    text-decoration: none;
+    text-align: center;
+    font-size: large;
+}
+.link3{
+    text-decoration: none;
+    text-align: center;
+    font-size: large;
+}
+.link4{
+    text-decoration: none;
+    text-align: center;
+    font-size: large;
+}
+.link5{
+    text-decoration: none;
+    text-align: center;
+    font-size: large;
+}
+.link6{
+    text-decoration: none;
+    text-align: center;
+    font-size: large;
+}

@@ -1,0 +1,23 @@
+.box{
+    background-color: solid grey;
+    height: 244px;
+    width: 344px;
+    border: 5px solid blue;
+    border-radius: 10px;
+    margin: 59px;
+    box-shadow: 5px 5px 10px 2px black;
+
+}
+p{
+    color: solid navy;
+    font-size: large;
+    font-family: ubuntu, Courier, monospace;
+}
+.kanit-thin {
+    font-family: "Kanit", monospace;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+
+  
